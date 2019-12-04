@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+}
+
+.image {
+    padding: 30px;
+    position: center;
+}
+
+.description {
+    padding: 30px;
+}
+
+.date {
+    text-decoration-style: bold;
+}
